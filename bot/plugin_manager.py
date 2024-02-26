@@ -30,7 +30,7 @@ class PluginManager:
             'crypto': CryptoPlugin,
             'ddg_web_search': DDGWebSearchPlugin,
             'ddg_translate': DDGTranslatePlugin,
-            'ddg_image_search': DDGImageSearchPlugin,
+            'ddbfdag_image_search': DDGImageSearchPlugin,
             'spotify': SpotifyPlugin,
             'worldtimeapi': WorldTimeApiPlugin,
             'youtube_audio_extractor': YouTubeAudioExtractorPlugin,
